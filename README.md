@@ -1,4 +1,4 @@
 # gitdemo
 
 # COLD
-My hands are freezing
+My hands are freezing.
